@@ -745,7 +745,7 @@
             <div style="display:flex;align-items:center;gap:12px;">
                 <div class="search-wrap">
                     <input type="text" id="searchInput" placeholder="Search items..." aria-label="Search">
-                    <button id="searchBtn"><i class="fas fa-search"></i> <span>Search</span></button>
+                    <button id="searchBtn"><em class="fas fa-search"></i> <span>Search</span></button>
                 </div>
                 <div class="header-actions">
                     <a class="icon-btn" href="#" aria-label="Account"><i class="far fa-user"></i></a>
